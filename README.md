@@ -1,15 +1,13 @@
 # Machine-learning Tutorials in Molecular Simulations -made simple-
 
 
-[![Build Status](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple.svg?branch=master)](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple)
-
 Welcome to the GitHub repository for Machine-learning Tutorials in Molecular Simulations (ML4molecularSims)
 This is a collection of Tutorials and Solution of Exercises for ML enthusiasts, which focuses on ML algorithms employed in Molecular Simulation. The Tutorials are aimed to reach multiple backgrounds in physics, chemistry biology, computer and material sciences. The basic and practical aspects of the algorithms are also described. The root project PyF4all has been presented at multiple conferences (PyCon, SciPy, and ScipyLA).
 The material is designed for a live tutorial presentation and all possible math details, with the research article and code available for you to check more references afterwards.
 
 
 <p align="center">
-  <img src="logo.png" alt=" "/>
+  <img src="logo.png" width="518" alt=" "/>
 </p>
 
 
