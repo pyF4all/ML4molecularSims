@@ -7,7 +7,7 @@ The material is designed for a live tutorial presentation and all possible math 
 
 
 <p align="center">
-  <img src="logo.png" width="518" alt=" "/>
+  <img src="logo.png" width="218" alt=" "/>
 </p>
 
 
@@ -21,9 +21,10 @@ Head over to [the official website][myPage]!
 
 If you find the material useful, the support this initiative and their contributors by:
 
-1. Sharing it around on Twitter!
+1. Sharing it around on [Twitter][myTwitter]!
 2. Reporting any bugs or Issues
 3. Sharing it with your colleagues
 4. Citing the [SciPy 2020 presentation][pubPyF4all]!
    
+[myTwitter]:https://x.com/whoratz
 [pubPyF4all]:https://zenodo.org/records/3961232 
